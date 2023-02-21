@@ -1,2 +1,3 @@
-# demo-pg-partitioning
-Demonstration of partitioning in PostgreSQL
+# PostgreSQL partitioning demo
+
+This is a demonstration of how partitioning works in PostgreSQL.
